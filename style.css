@@ -44,6 +44,7 @@ body {
 
 .nav-item .dropdown-menu {
     left: -25%;
+    margin-top: -6px;
     background-color: rgb(255,255,255,0.8);
 }
 
